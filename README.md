@@ -160,21 +160,17 @@ Baccalauréat STI-Ge | Option Génie électronique | Lycée Gustave Eiffel / Dij
 g3offr3y_lacr0ix@proton.me
 
 <style>
-  /* On rase absolument TOUTES les bordures hautes du site */
-  * {
-    border-top: none !important;
-    box-shadow: none !important;
-  }
-
-  /* On cible spécifiquement les éléments de structure GitHub */
-  body, header, .page-header, section, main, .main-content {
-    border-top: 0 !important;
-    margin-top: 0 !important;
-    padding-top: 0 !important;
-  }
-
-   .page-header::before, .page-header::after {
+  /* Masque le header complet du thème (là où se trouve la ligne bleue) */
+  header, .page-header {
     display: none !important;
-   }
-</style>
+    height: 0 !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    border: none !important;
+  }
 
+  /* Remet le contenu en haut de la page */
+  .main-content {
+    padding-top: 20px !important;
+  }
+</style>
