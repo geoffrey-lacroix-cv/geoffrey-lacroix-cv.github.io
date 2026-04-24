@@ -9,7 +9,9 @@ Expertise clés: Mainframe z/OS : 20 ans de conception, de maintenance et de fus
 Modernisation IA & Innovation : R&D personnelle dans l'hybridation Mainframe et Intelligence Artificielle (RAG, Knowledge Graphs, Traçabilité). 
 
 International : Prêt pour participer à des projets de modernisation qu'ils soient simples ou complexes, nous connaissons la haute valeur stratégique de ces missions. 
+
 Disponible pour des opportunités à l'international. 
+
 Disposé à déménager dans les localisations suivantes: 
 - Espagne,
 - USA,
