@@ -1,4 +1,4 @@
-# CV de Geoffrey Lacroix, né le 03 Mars 1981
+de# CV de Geoffrey Lacroix, né le 03 Mars 1981
 
 # Synthèse 
 
@@ -100,7 +100,7 @@ Projet évolution SGS :
 Analyse de l’existant, 
 définition du périmètre des évolutions à mener pour le nouveau SI du Crédit Agricole. 
 
-Développeur Mainframe z/OS - Flux Financiers Critiques & Fusion Caisse d'épargne | Lyon | 2003 - 2008 
+Développeur Mainframe z/OS - Flux Financiers Critiques & Fusion Caisse d'épargne | CT4R - ITCE | Lyon | 2003 - 2008 
 
 Participation aux projets McDonough, migration des PEL/CAT, projet START, contrôles des traitements post bascule.
 
