@@ -1,3 +1,5 @@
+# CV de Geoffrey Lacroix, né le 3 Mars 1981
+
 # Synthèse 
 
 Expert Architecte Mainframe |  Modernisation SI (IA & RAG & GRAPH) | Lyon / Annecy / Valenciana | 23+ ans d'expérience 
