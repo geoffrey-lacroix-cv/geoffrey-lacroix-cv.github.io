@@ -143,8 +143,7 @@ NEO4J | Knowledge Graphs | graphes de connaissances | dbGraph
 Python | REXX | SQLServer | SQLite | Oracle
 ADA95 | C/C++ | C# | .NET | JAVA
 
-# Contact
-[![Email](https://img.shields.io/badge/Email-g3offr3y__lacr0ix%40proton.me-blue?style=flat-square&logo=gmail)](mailto:g3offr3y_lacr0ix@proton.me)
+# [![Contact](https://img.shields.io/badge/Email-g3offr3y__lacr0ix%40proton.me-blue?style=flat-square&logo=proton)](mailto:g3offr3y_lacr0ix@proton.me)
 
 <style>
   /* Supprime le titre généré par le thème Cayman dans le header */
