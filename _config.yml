@@ -1,2 +1,4 @@
 show_downloads: false
 gui_sel: false
+border-top: none
+
