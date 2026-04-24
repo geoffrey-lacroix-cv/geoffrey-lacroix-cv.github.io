@@ -161,14 +161,23 @@ Baccalauréat STI-Ge | Option Génie électronique | Lycée Gustave Eiffel / Dij
 g3offr3y_lacr0ix@proton.me
 
 <style>
-  /* Supprime spécifiquement le bloc de texte de GitHub Pages */
-  .site-footer-credits, .site-footer-owner, .project-tagline {
+  /* Supprime le titre généré par le thème Cayman dans le header */
+  .page-header .project-name {
+    display: none !important;
+  }
+  
+  /* Supprime aussi la description si elle apparaît en double */
+  .page-header .project-tagline {
+    display: none !important;
+  }
+
+  /* Ton code actuel pour le footer */
+  .site-footer-credits, .site-footer-owner {
     display: none !important;
     visibility: hidden !important;
   }
-  
-  /* Supprime la ligne de séparation si elle revient */
   .site-footer {
     border-top: none !important;
   }
 </style>
+
