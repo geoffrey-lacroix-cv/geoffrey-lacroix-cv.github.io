@@ -1,4 +1,4 @@
 show_downloads: false
-gui_sel: false
-border-top: none
+remote_theme: none
+theme: none
 
