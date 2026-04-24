@@ -172,5 +172,9 @@ g3offr3y_lacr0ix@proton.me
     margin-top: 0 !important;
     padding-top: 0 !important;
   }
+
+   .page-header::before, .page-header::after {
+    display: none !important;
+   }
 </style>
 
