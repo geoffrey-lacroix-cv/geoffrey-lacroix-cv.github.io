@@ -1,5 +1,3 @@
-# CV de Geoffrey Lacroix
-
 # Synthèse 
 
 Expert Architecte Mainframe |  Modernisation SI (IA & RAG & GRAPH) | Lyon / Annecy / Valenciana | 23+ ans d'expérience 
