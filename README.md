@@ -1,9 +1,9 @@
 
-# CV de Geoffrey Lacroix, né le 3 Mars 1981
+# CV de Geoffrey Lacroix, né le 3 Mars 1981 à Beaune
 
 # Synthèse 
 
-Expert Architecte Mainframe |  Modernisation SI (IA & RAG & GRAPH) | Lyon / Annecy / Valenciana | 23+ ans d'expérience 
+Expert Architecte Mainframe |  Modernisation Mainframe (IA & RAG & GRAPH) | Lyon / Annecy / Valenciana | 23+ ans d'expérience 
 
 Architecte senior spécialiste des systèmes critiques (z/OS, COBOL, DB2, CICS) avec une expertise unique dans l'intégration du z/OS & des KNOWLEDGE GRAPHS. 
 
