@@ -1,5 +1,7 @@
 # CV de Geoffrey Lacroix, né le 03 Mars 1981
 
+# Synthèse 
+
 Expert Architecte Mainframe |  Modernisation SI (IA & RAG & GRAPH) | Lyon / Annecy / Valenciana | 23+ ans d'expérience 
 
 Architecte senior spécialiste des systèmes critiques (z/OS, COBOL, DB2, CICS) avec une expertise unique dans l'intégration du z/OS & des KNOWLEDGE GRAPHS. 
@@ -17,6 +19,8 @@ Disposé à déménager dans les localisations suivantes:
 - USA,
 - Suisse,
 - Luxembourg.
+
+# Détails
 
 Expert Senior z/OS | Optimisations MSUs & (IA & RAG for mainframe) | Lyon | 2022 - 2026 
 
@@ -123,7 +127,7 @@ Participation au projet Fusion PSI
 pour les Caisses d’Epargnes : 
 développement d’un outil de suivi de bascule des caisses (ordonnanceur de pilotage de week end de bascule 2 caisses régionales / partitions-> 1 seule, outil perso pour caisse d'épargne) .
 
-# Formation 
+# Formations 
 
 DUT Génie Logiciel | Option Génie Logiciel | IUT de BOURGOGNE / Dijon | 2000 - 2003
 
