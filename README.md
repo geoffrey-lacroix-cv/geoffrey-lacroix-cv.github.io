@@ -1,6 +1,6 @@
 # CV de Geoffrey Lacroix, né le 03 Mars 1981
 
-Expert Architecte Mainframe |  Modernisation SI (IA & RAG & GRAPH) | Lyon - Annecy - Valenciana | 23+ ans d'expérience 
+Expert Architecte Mainframe |  Modernisation SI (IA & RAG & GRAPH) | Lyon / Annecy / Valenciana | 23+ ans d'expérience 
 
 Architecte senior spécialiste des systèmes critiques (z/OS, COBOL, DB2, CICS) avec une expertise unique dans l'intégration du z/OS & des KNOWLEDGE GRAPHS. 
 
@@ -18,10 +18,10 @@ Disposé à déménager dans les localisations suivantes:
 - Suisse,
 - Luxembourg.
 
-Expert Senior z/OS | Optimisations MSUs & Run PROLOG (IA & RAG) | Prolog Lyon | 2022 - 2026 
+Expert Senior z/OS | Optimisations MSUs & (IA & RAG for mainframe) | Lyon | 2022 - 2026 
 
-Participation à Prolog & Infolog.
-Reprise du projet AWR, pilotage et résolution d’incidents, mise en prod. 
+Participation à Prolog.
+Projet AWR, pilotage et résolution d’incidents, mise en prod. 
 
 Reprise et mise à jour de la métrologie système Z (exploitation des fichiers SMF-compteurs de performances système Z).
 
@@ -44,7 +44,7 @@ Analyse et résolution des incidents.
 Support et Assistance technique Pacbase, JCL, MQueue
 
  
-Consultant indépendant z/OS | Lyon - Annecy - Chalon-sur-Saône | ITCE - BPCE - CATS - CAGIP - GROUPAMA | 2013 - 2022 
+Consultant indépendant z/OS | ITCE - BPCE - CATS - CAGIP - GROUPAMA | Lyon / Annecy / Chalon-sur-Saône | 2013 - 2022 
 
 Pour IT-CE : Projet Bancware, VARIO, TRADIX, Comptabase : participation aux évolutions : 
 Analyse fonctionnelle, 
@@ -125,9 +125,9 @@ développement d’un outil de suivi de bascule des caisses (ordonnanceur de pil
 
 # Formation 
 
-DUT Génie Logiciel | Option Génie Logiciel | IUT de BOURGOGNE - Dijon | 2000 - 2003
+DUT Génie Logiciel | Option Génie Logiciel | IUT de BOURGOGNE / Dijon | 2000 - 2003
 
-Baccalauréat Génie électronique | Lycée Gustave Eiffel - Dijon | 1998 - 2000
+Baccalauréat Génie électronique | Lycée Gustave Eiffel / Dijon | 1998 - 2000
 
 # Compétences 
 
