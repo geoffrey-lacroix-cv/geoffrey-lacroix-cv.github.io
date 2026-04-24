@@ -1,6 +1,6 @@
 # CV de Geoffrey Lacroix, né le 03 Mars 1981
 
-Expert Architecte Mainframe |  Modernisation SI & IA & RAG & GRAPH | Lyon - Annecy - Valenciana | 23+ ans d'expérience 
+Expert Architecte Mainframe |  Modernisation SI (IA & RAG & GRAPH) | Lyon - Annecy - Valenciana | 23+ ans d'expérience 
 
 Architecte senior spécialiste des systèmes critiques (z/OS, COBOL, DB2, CICS) avec une expertise unique dans l'intégration du z/OS & KNOWLEDGE GRAPH. 
 
@@ -9,33 +9,40 @@ Expertise clés: Mainframe z/OS : 20 ans de conception, de maintenance et de fus
 Modernisation IA & Innovation : R&D personnelle dans l'hybridation Mainframe et Intelligence Artificielle (RAG, Knowledge Graphs, Traçabilité). 
 
 International : Prêt pour participer à des projets de modernisation qu'ils soient simples ou complexes, nous connaissons la haute valeur stratégique de ces missions. 
-Disponible pour des opportunités à l'international (Suisse, Luxembourg, USA, Europe). 
-
+Disponible pour des opportunités à l'international. 
 Disposé à déménager dans les localisations suivantes: 
-Espagne
-USA
-Suisse
-Luxembourg 
+- Espagne,
+- USA,
+- Suisse,
+- Luxembourg.
 
-Expérience Expert z/OS | Optimisations MSUs & IA & RAG | Prolog Lyon | 2022 - 2026 
+Expert Senior z/OS | Optimisations MSUs & Run PROLOG (IA & RAG) | Prolog Lyon | 2022 - 2026 
 
 Participation à Prolog & Infolog.
 Reprise du projet AWR, pilotage et résolution d’incidents, mise en prod. 
+
 Reprise et mise à jour de la métrologie système Z (exploitation des fichiers SMF-compteurs de performances système Z).
+
 Traitement des incidents applicatifs.
+
 Gestion des problèmes.
+
 Développements et correction de composants Pacbase et Cobol.
+
 Elaboration et exécution des tests unitaires, d’intégration et accompagnement.
 Recette (prise en charge d’une partie de la recette AWR).
+
 Rédaction et participation aux tests fonctionnels Participation à la rédaction des spécifications.
+
 Participation à la gestion RUN Prolog via JIRA Animation et compte rendu point suivi hebdo Utilisateurs.
+
 Rétro conception pour decommissionement vers monde open. 
-Montée de version.
 Analyse et résolution des incidents.
+
 Support et Assistance technique Pacbase, JCL, MQueue
 
  
-Consultant indépendant z/OS | Lyon - Annecy - Chalon-sur-Saône | 2013 - 2022 
+Consultant indépendant z/OS | Lyon - Annecy - Chalon-sur-Saône | ITCE - BPCE - CATS - CAGIP - GROUPAMA | 2013 - 2022 
 
 Pour IT-CE : Projet Bancware, VARIO, TRADIX, Comptabase : participation aux évolutions : 
 Analyse fonctionnelle, 
@@ -73,7 +80,7 @@ Rédaction et participation aux tests fonctionnels
 Participation à la rédaction des Users Stories 
 Participation à la gestion du RUN via Métis.
 
-Architecte Sécurité & Flux Mainframe | Lyon | Crédit agricole | 2008 - 2013 
+Architecte Sécurité & Flux Mainframe | Lyon | CATS | 2008 - 2013 
 
 Développement d’outils plateforme .NET 
 
