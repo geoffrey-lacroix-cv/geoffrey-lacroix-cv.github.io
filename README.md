@@ -160,14 +160,7 @@ Baccalauréat STI-Ge | Option Génie électronique | Lycée Gustave Eiffel / Dij
 g3offr3y_lacr0ix@proton.me
 
 <style>
-  /* Ta configuration existante pour le footer... */
-
-  .page-header {
-    border-top: none !important;
-  }
-  
-  /* Sécurité si c'est un autre élément */
-  header, hr {
+  * {
     border-top: none !important;
   }
 </style>
