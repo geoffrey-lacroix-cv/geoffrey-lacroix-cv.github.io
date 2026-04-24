@@ -11,7 +11,7 @@ Modernisation IA & Innovation : R&D personnelle dans l'hybridation Mainframe et 
 International : Prêt pour participer à des projets de modernisation qu'ils soient simples ou complexes, nous connaissons la haute valeur stratégique de ces missions. 
 Disponible pour des opportunités à l'international (Suisse, Luxembourg, USA, Europe). Disposé(e) à déménager dans les localisations suivantes: Espagne - USA - Suisse - Luxembourg 
 
-Expérience Expert z/OS | Optimisations MSUs | IA | RAG Prolog-Lyon (69) 2022 - 2026 
+Expérience Expert z/OS | Optimisations MSUs & IA & RAG | Prolog Lyon | 2022 - 2026 
 
 Participation à Prolog, Infolog Reprise du projet AWR, pilotage et résolution d’incidents, mise en prod Reprise et mise à jour de la métrologie système Z (exploitation des fichiers SMF-compteurs de performances système Z) 
 Traitement des incidents applicatifs Gestion des problèmes Développements et correction de composants Pacbase et Cobol Elaboration et exécution des tests unitaires, d’intégration et accompagnement Recette (prise en charge d’une partie de la recette AWR) 
@@ -20,9 +20,8 @@ Participation à la gestion RUN Prolog via JIRA Animation et compte rendu point 
 Rétro conception pour decommissionement vers monde open. 
 Montée de version Analyse et résolution des incidents Support et Assistance technique Pacbase, JCL, MQueue
 
-Consultant indépendant z/OS 
-
-Indépendant-Lyon | Annecy | Chalon-sur-Saône 2013 - 2022 
+ 
+Consultant indépendant z/OS | Lyon - Annecy - Chalon-sur-Saône | 2013 - 2022 
 
 Pour IT-CE : Projet Bancware, VARIO, TRADIX, Comptabase : participation aux évolutions : Analyse fonctionnelle, Rédaction des spécifications fonctionnelles, Chiffrage, Tests fonctionnels avec ALMQC, Recette MOE, Assistance MOA 
 
@@ -43,7 +42,7 @@ Rédaction et participation aux tests fonctionnels
 Participation à la rédaction des Users Stories 
 Participation à la gestion du RUN via Métis 
 
-Architecte Sécurité & Flux Mainframe Crédit agricole-Lyon 2008 - 2013 
+Architecte Sécurité & Flux Mainframe | Lyon | Crédit agricole | 2008 - 2013 
 
 Développement d’outils plateforme .NET 
 
@@ -55,7 +54,7 @@ Outil de références croisées entre Caisse, PCL, Programmes, Tables/Vues, Fich
 
 Projet évolution SGS : Analyse de l’existant, définition du périmètre des évolutions à mener pour le nouveau SI du Crédit Agricole. 
 
-Développeur Mainframe z/OS - Flux Financiers Critiques & Fusion Caisse d'épargne-Lyon (69) 2003 - 2008 
+Développeur Mainframe z/OS - Flux Financiers Critiques & Fusion Caisse d'épargne | Lyon | 2003 - 2008 
 
 Participation aux projets McDonough, migration des PEL/CAT, projet START, contrôles des traitements post bascule 
 
