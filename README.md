@@ -131,7 +131,7 @@ développement d’un outil de suivi de bascule des caisses (ordonnanceur de pil
 
 DUT Génie Logiciel | Option Génie Logiciel | IUT de BOURGOGNE / Dijon | 2000 - 2003
 
-Baccalauréat Génie électronique | Lycée Gustave Eiffel / Dijon | 1998 - 2000
+Baccalauréat STI-Ge | Option Génie électronique | Lycée Gustave Eiffel / Dijon | 1998 - 2000
 
 # Compétences 
 
