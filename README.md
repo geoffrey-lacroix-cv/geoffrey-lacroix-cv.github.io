@@ -154,3 +154,7 @@ Baccalauréat STI-Ge | Option Génie électronique | Lycée Gustave Eiffel / Dij
 • COBOL 
 • Prompt Engineering 
 • DB2
+
+# Contact
+
+g3offr3y_lacr0ix@proton.me
