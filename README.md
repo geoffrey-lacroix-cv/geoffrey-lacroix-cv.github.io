@@ -136,11 +136,11 @@ Baccalauréat STI-Ge | Option Génie électronique | Lycée Gustave Eiffel / Dij
 
 # Compétences 
 
-RAG | Enterprise IA | LLM | Prompt Engineering 
+RAG | Enterprise IA | LLM | Prompt Engineering | R&D perso
 ADA95 | C | C++ | C# | .NET
 NEO4J | Knowledge Graphs | graphes de connaissances | dbGraph
-Python | PHP Symphony | Java | SQLite
-Legacy Modernization | CICS | z/OS 
+Python | PHP Symphony | Java | SQLite | Oracle
+Legacy Modernization | CICS | z/OS | JCL | MQSeries
 Mainframe | COBOL | DB2 | ARCH(13) | ARCH(14)
 
 # Contact
