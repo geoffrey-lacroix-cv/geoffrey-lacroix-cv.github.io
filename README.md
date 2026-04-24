@@ -86,7 +86,7 @@ Rédaction et participation aux tests fonctionnels
 Participation à la rédaction des Users Stories 
 Participation à la gestion du RUN via Métis.
 
-Architecte Sécurité & Flux Mainframe | Lyon | CATS | 2008 - 2013 
+Architecte Sécurité & Flux Mainframe | CATS | Lyon | 2008 - 2013 
 
 Développement d’outils plateforme .NET 
 
