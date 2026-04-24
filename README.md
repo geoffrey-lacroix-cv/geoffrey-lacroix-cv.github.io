@@ -2,7 +2,7 @@
 
 Expert Architecte Mainframe |  Modernisation SI (IA & RAG & GRAPH) | Lyon - Annecy - Valenciana | 23+ ans d'expérience 
 
-Architecte senior spécialiste des systèmes critiques (z/OS, COBOL, DB2, CICS) avec une expertise unique dans l'intégration du z/OS & KNOWLEDGE GRAPH. 
+Architecte senior spécialiste des systèmes critiques (z/OS, COBOL, DB2, CICS) avec une expertise unique dans l'intégration du z/OS & des KNOWLEDGE GRAPHS. 
 
 Expertise clés: Mainframe z/OS : 20 ans de conception, de maintenance et de fusions nationales bancaires, expert sécurité logique, expert optimisations MSUs. 
 
