@@ -30,23 +30,23 @@ Expertise clés:
 **Expert Senior z/OS** | Optimisations MSUs & (*IA & RAG for mainframe*) | Lyon | 2022 - 2026 
 
 **Run Prolog** :
-* Projet AWR, pilotage et résolution d’incidents, mise en prod
-* Reprise et mise à jour de la métrologie système Z (exploitation des fichiers SMF-compteurs de performances système Z)
+* Projet **AWR**, pilotage et résolution d’incidents, mise en prod
+* Reprise et mise à jour de la **métrologie système Z** (exploitation des fichiers SMF-compteurs de performances système Z)
 * Traitement des incidents applicatifs
 * Développements et correction de composants **Pacbase** et **Cobol**
 * Elaboration et exécution des tests unitaires, d’intégration et accompagnement
-* Recette (prise en charge recette AWR)
+* **Recette** (prise en charge recette AWR)
 * Rédaction et participation aux tests fonctionnels
-* Participation à la rédaction des spécifications
-* Rétro conception pour decommissionement vers monde open
+* **Rédaction des spécifications**
+* **Rétro conception** pour decommissionement vers monde open
 * Gestion des problèmes
-* Support et Assistance technique Pacbase, JCL, MQueue
+* **Support et Assistance technique Pacbase, JCL, MQueue, RPP**
 
 ---
 
 **Consultant indépendant z/OS** | ITCE - BPCE - CATS - CAGIP - GROUPAMA | Lyon / Annecy / Chalon-sur-Saône | 2013 - 2022 
 
-* **IT-CE** : Projet Bancware, VARIO, TRADIX, Comptabase : participation aux évolutions : 
+**IT-CE** : Projet Bancware, VARIO, TRADIX, Comptabase : participation aux évolutions : 
 * Analyse fonctionnelle 
 * Rédaction des spécifications fonctionnelles
 * Chffrage
@@ -88,7 +88,8 @@ Dans le cadre des projets Mercure, SAP CoreModel V2, Mobilité bancaire :
 * Développement d’outils plateforme .NET 
 * Reprise et finalisation outil de transfert de fichier et de conversion de code page IBM <> Windows 
 * Outil d’exécution de lots SSIS (permettant la sécurisation et la traçabilité des interventions en production) 
-* Outil de références croisées entre Caisse, PCL, Programmes, Tables/Vues, Fichiers, Spool 
+* Outil de références croisées entre Caisse, PCL, Programmes, Tables/Vues, Fichiers, Spool
+
 * **Projet évolution SGS** : 
 * Analyse de l’existant
 * Définition du périmètre des évolutions à mener pour le nouveau SI unique du Crédit Agricole
