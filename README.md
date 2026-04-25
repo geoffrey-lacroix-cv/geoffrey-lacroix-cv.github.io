@@ -40,7 +40,7 @@ Expertise clés:
 * Rédaction de spécifications
 * **Rétro conception** pour decommissionement vers monde open
 * Gestion des problèmes
-* **Support et Assistance technique Pacbase, JCL, MQueue, RPP**
+* **Support et Assistance Pacbase, JCL, MQueue, RPP**
 
 **Consultant indépendant z/OS** | ITCE - BPCE - CATS - CAGIP - GROUPAMA | Lyon / Annecy / Chalon-sur-Saône | 2013 - 2022 
 
