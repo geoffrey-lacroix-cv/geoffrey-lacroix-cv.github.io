@@ -35,9 +35,9 @@ Expertise clés:
 * Traitement des incidents applicatifs
 * Développements et correction de composants **Pacbase** et **Cobol**
 * Elaboration et exécution des tests unitaires, d’intégration et accompagnement
-* **Recette** (prise en charge recette AWR)
+* **Recette AWR**
 * Rédaction et participation aux tests fonctionnels
-* **Rédaction des spécifications**
+* Rédaction de spécifications
 * **Rétro conception** pour decommissionement vers monde open
 * Gestion des problèmes
 * **Support et Assistance technique Pacbase, JCL, MQueue, RPP**
@@ -96,7 +96,8 @@ Dans le cadre des projets Mercure, SAP CoreModel V2, Mobilité bancaire
 
 **Développeur Mainframe z/OS** - Flux Financiers Critiques & Fusion Caisse d'épargne | CT4R - ITCE | Lyon | 2003 - 2008 
 
-Participation aux projets : 
+**Participation aux projets** : 
+
 * McDonough
 * Migration des PEL/CAT
 * Projet START, contrôles des traitements post bascule
