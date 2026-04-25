@@ -5,7 +5,7 @@
 
 # 🕵️‍♂️ Synthèse 
 
-**Expert Architecte Mainframe** |  **Modernisation z/OS** (*IA + RAG + GRAPH*) & **MSUs saving** | Lyon / Annecy / Valenciana / Malaga | 23+ ans d'expérience 
+**Expert Architecte Mainframe** |  **Modernisation z/OS** (*IA + RAG + GRAPH*) & **MSUs savings** | Lyon / Annecy / Valenciana / Malaga | 23+ ans d'expérience 
 
 **Architecte senior** spécialiste des systèmes critiques (**z/OS, COBOL, DB2, CICS**) avec une expertise unique dans l'intégration du z/OS & des **KNOWLEDGE GRAPHS**. 
 
@@ -126,18 +126,18 @@ Dans le cadre des projets Mercure, SAP CoreModel V2, Mobilité bancaire
 
 **DUT Informatique** | Option **Génie Logiciel** | IUT de BOURGOGNE / **Dijon** | 2000 - 2003
 
-**Baccalauréat STI-Ge** | Option **Génie électronique** | Lycée Gustave Eiffel / **Morteau - Dijon** | 1998 - 2000
+**Baccalauréat STI-Ge** | Option **Génie électronique** | Lycée Gustave Eiffel / **Morteau / Dijon** | 1998 - 2000
 
 ---
 
 # 🥋 Compétences 
 
-Mainframe | COBOL | DB2 | JCL | CICS
-Legacy Modernization | MSUs savings | MQSeries | ARCH(13) | ARCH(14)
-RAG | Enterprise IA | R&D perso | Prompt Engineering | LLM 
-NEO4J | Knowledge Graphs | graphes de connaissances | dbGraph
-Python | REXX | SQLServer | SQLite | Oracle
-ADA95 | C/C++ | C# | .NET | JAVA
+**Mainframe** | **COBOL** | **DB2** | **JCL** | **CICS**
+**Legacy Modernization** | **MSUs savings** | MQSeries | **ARCH(13)** | **ARCH(14)**
+**RAG** | Enterprise IA | **R&D perso** | Prompt Engineering | LLM 
+**NEO4J** | **Knowledge Graphs** | **Graphes de connaissances** | dbGraph
+**Python** | REXX | SQLServer | **SQLite** | Oracle
+ADA95 | C/C++ | **C#** | .NET | **JAVA**
 
 ---
 
