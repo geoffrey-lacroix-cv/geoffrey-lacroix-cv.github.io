@@ -98,15 +98,15 @@ Dans le cadre des projets Mercure, SAP CoreModel V2, Mobilité bancaire
 
 **Participation aux projets** : 
 
-* McDonough
-* Migration des PEL/CAT
-* Projet START, contrôles des traitements post bascule
+* **McDonough**
+* Migration des **PEL/CAT**
+* Projet **START**, contrôles des traitements post bascule
   
 * TMA à chaud sur l’applicatif Client
-* Projet IFRS
+* Projet **IFRS**
 * Participation aux développements de la double comptabilité (outils C++ pour dupliquer le plan de compte comptable **Gl*Expert**)
-* Recette de la migration du progiciel RDJ V8.3.2
-* Prise en charge du projet d’évolution OSCAR 
+* Recette de la migration du progiciel **RDJ V8.3.2**
+* Prise en charge du projet d’évolution **OSCAR** 
 * Analyses technico-fonctionnelles pour projet **TRADE / ALM** 
 
 * Maintenance corrective du système comptable sur **Gl*Expert** 
