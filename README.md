@@ -46,7 +46,7 @@ Expertise clés:
 
 **Consultant indépendant z/OS** | ITCE - BPCE - CATS - CAGIP - GROUPAMA | Lyon / Annecy / Chalon-sur-Saône | 2013 - 2022 
 
-**IT-CE** : Projet Bancware, VARIO, TRADIX, Comptabase : participation aux évolutions : 
+**IT-CE** : Projet Bancware, VARIO, TRADIX, Comptabase : participation aux évolutions 
 * Analyse fonctionnelle 
 * Rédaction des spécifications fonctionnelles
 * Chffrage
@@ -55,13 +55,13 @@ Expertise clés:
 * Assistance MOA
 
 **Groupama** : 
-Dans le cadre des projets Mercure, SAP CoreModel V2, Mobilité bancaire : 
+Dans le cadre des projets Mercure, SAP CoreModel V2, Mobilité bancaire
 * Analyse fonctionnelle
 * Rédaction des spécifications techniques 
 * Développements et Tests Unitaires
 * Prise en compte des retours de recette
 
-**BPCE** : Projets de maintenances et migrations bancaires du groupe Banques Populaires : 
+**BPCE** : Projets de maintenances et migrations bancaires du groupe Banques Populaires
 * Analyse fonctionnelle 
 * Rédaction des spécifications techniques et détaillées 
 * Développements
@@ -72,16 +72,16 @@ Dans le cadre des projets Mercure, SAP CoreModel V2, Mobilité bancaire :
 **CAGIP** : 
 * **Expert REXX** : conversion Easytrieve en REXX 
 
-**CATS**: 
+**CATS** :
 * Participation au RUN, partie **Réalisation GREEN** (*collectivités publiques, entreprises, agris pros, particuliers*) :
 * Participation aux projets gérés via *Jira*
-* Développements en Pacbase/Cobol Outillé 
+* Développements en **Pacbase/Cobol Outillé**
 * Traitement des incidents applicatifs 
 * Gestion des problèmes 
 * Elaboration et exécution des tests unitaires et d’intégration
 * Rédaction et participation aux tests fonctionnels 
-* Participation à la rédaction des Users Stories 
-* Participation à la gestion du RUN via Métis
+* Participation à la rédaction des **Users Stories**
+* Participation à la **gestion du RUN** via Métis
 
 **Architecte Sécurité & Flux Mainframe** | CATS | Lyon | 2008 - 2013 
 
