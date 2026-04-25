@@ -42,8 +42,6 @@ Expertise clés:
 * Gestion des problèmes
 * **Support et Assistance technique Pacbase, JCL, MQueue, RPP**
 
----
-
 **Consultant indépendant z/OS** | ITCE - BPCE - CATS - CAGIP - GROUPAMA | Lyon / Annecy / Chalon-sur-Saône | 2013 - 2022 
 
 **IT-CE** : Projet Bancware, VARIO, TRADIX, Comptabase : participation aux évolutions 
