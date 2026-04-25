@@ -1,7 +1,7 @@
 
 # CV de Geoffrey Lacroix, né le 3 Mars 1981 (021)
 
-# Synthèse 
+# 🕵️‍♂️ Synthèse 
 
 Expert Architecte Mainframe |  Modernisation z/OS (IA & RAG & GRAPH) | Lyon / Annecy / Valenciana / Malaga | 23+ ans d'expérience 
 
@@ -21,7 +21,7 @@ Disposé à déménager dans les localisations suivantes:
 - Suisse,
 - Luxembourg.
 
-# Détails
+# 🏗️ Détails
 
 Expert Senior z/OS | Optimisations MSUs & (IA & RAG for mainframe) | Lyon | 2022 - 2026 
 
@@ -128,13 +128,13 @@ Participation au projet Fusion PSI
 pour les Caisses d’Epargnes : 
 développement d’un outil de suivi de bascule des caisses (ordonnanceur de pilotage de week end de bascule 2 caisses régionales / partitions-> 1 seule, outil perso pour caisse d'épargne) .
 
-# Formations 
+# 🎓 Formations 
 
 DUT Génie Logiciel | Option Génie Logiciel | IUT de BOURGOGNE / Dijon | 2000 - 2003
 
 Baccalauréat STI-Ge | Option Génie électronique | Lycée Gustave Eiffel / Dijon | 1998 - 2000
 
-# Compétences 
+# 🥋 Compétences 
 
 Mainframe | COBOL | DB2 | JCL | CICS
 Legacy Modernization | MSUs savings | MQSeries | ARCH(13) | ARCH(14)
@@ -143,7 +143,9 @@ NEO4J | Knowledge Graphs | graphes de connaissances | dbGraph
 Python | REXX | SQLServer | SQLite | Oracle
 ADA95 | C/C++ | C# | .NET | JAVA
 
-# [![Contact](https://img.shields.io/badge/Email-g3offr3y__lacr0ix%40proton.me-blue?style=flat-square&logo=proton)](mailto:g3offr3y_lacr0ix@proton.me)
+# 📩 Contact
+
+**Ligne sécurisée :** [Contact](mailto:g3offr3y_lacr0ix@proton.me)
 
 <style>
   /* Supprime le titre généré par le thème Cayman dans le header */
