@@ -126,7 +126,7 @@ Dans le cadre des projets Mercure, SAP CoreModel V2, Mobilité bancaire
 
 **DUT Informatique** | **Génie Logiciel** | IUT de BOURGOGNE / **Dijon** | 2000 - 2003
 
-**Baccalauréat STI-Ge** | **Génie électronique** | Lycée Gustave Eiffel / **Morteau / Dijon** | 1998 - 2000
+**Baccalauréat STI-Ge** | **Génie électronique** | Lycée Gustave Eiffel / **Dijon** | 1998 - 2000
 
 ---
 
