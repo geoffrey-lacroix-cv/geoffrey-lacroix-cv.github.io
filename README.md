@@ -1,5 +1,5 @@
 
-# CV de Geoffrey Lacroix, né le 3 Mars 1981 (021)
+# CV de Geoffrey Lacroix
 
 ---
 
