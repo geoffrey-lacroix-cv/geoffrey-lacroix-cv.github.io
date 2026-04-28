@@ -1,5 +1,5 @@
 
-# CV de Geoffrey Lacroix
+# CV de Geoffrey Lacroix, Expert Senior Mainframe 
 
 ---
 
