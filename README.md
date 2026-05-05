@@ -5,7 +5,7 @@
 
 # 🕵️‍♂️ Synthèse 
 
-**Expert Architecte Mainframe** |  **Modernisation z/OS** (*IA + RAG + GRAPH*) & **saving MSUs** | Lyon / Annecy / Valenciana / Malaga | 23+ ans d'expérience 
+**Expert Architecte Mainframe** |  **Modernisation z/OS** (*IA + RAG + GRAPH*) & **saving MSUs** | Paris / Lyon / Valenciana / Malaga | 23+ ans d'expérience 
 
 **Architecte senior** spécialiste des systèmes critiques (**z/OS, COBOL, DB2, CICS**) avec une expertise unique dans l'intégration du z/OS & des **KNOWLEDGE GRAPHS**. 
 
@@ -18,10 +18,10 @@ Expertise clés:
 * **International** : Prêt pour participer à des projets de modernisation qu'ils soient simples ou complexes, nous connaissons la haute valeur stratégique de ces missions. 
 
 **Disponible pour des opportunités à l'international** : 
+- Luxembourg,
 - Espagne,
 - USA,
-- Suisse,
-- Luxembourg.
+- Suisse.
 
 ---
 
