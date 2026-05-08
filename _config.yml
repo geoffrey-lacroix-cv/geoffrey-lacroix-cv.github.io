@@ -1,3 +1,4 @@
-show_downloads: false
+title: "CV de Geoffrey LACROIX"
+description: "Expert Senior Mainframe"
 theme: jekyll-theme-slate
-title: " "
+gui_sel: false
