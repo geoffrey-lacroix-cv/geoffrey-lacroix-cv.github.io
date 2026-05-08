@@ -128,15 +128,21 @@ Dans le cadre des projets Mercure, SAP CoreModel V2, Mobilité bancaire
 
 ---
 
-# Compétences 
+# Compétences
 
-**Mainframe** | **COBOL** | **DB2** | **JCL** | **CICS**
-**Legacy Modernization** | **MSUs savings** | MQSeries | **ARCH(13)** | **ARCH(14)**
-**RAG** | Enterprise IA | **Expertise Innovation & Hybridation** | LLM |  
-**NEO4J** | **Knowledge Graphs** | **Graphes de connaissances** | dbGraph
-**Python** | REXX | SQLServer | **SQLite** | Oracle
-ADA95 | C/C++ | **C#** | .NET | **JAVA**
+**Expertise Mainframe & Systèmes Critiques**
+* **Core :** COBOL, DB2, JCL, CICS, MQSeries, Pacbase.
+* **Optimisation :** Métrologie SMF, MSUs savings, ARCH(13)/ARCH(14).
+* **Modernisation :** Legacy Hybridation, API Mainframe.
 
+**Innovation & IA Générative**
+* **Intelligence Artificielle :** LLM, RAG (Retrieval-Augmented Generation), Enterprise IA.
+* **Knowledge Graphs :** NEO4J, Knowledge Graphs, Graphes de connaissances, dbGraph.
+
+**Développement & Data**
+* **Langages :** Python, REXX, C/C++, C#, .NET, JAVA, ADA95.
+* **Bases de données :** SQLServer, SQLite, Oracle.
+* 
 ---
 
 # Contact
