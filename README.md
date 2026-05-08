@@ -144,23 +144,10 @@ ADA95 | C/C++ | **C#** | .NET | **JAVA**
 **Ligne sécurisée :** [Contact](mailto:g3offr3y_lacr0ix@proton.me)
 
 <style>
-  /* Supprime le titre généré par le thème Cayman dans le header */
-  .page-header .project-name {
-    display: none !important;
-  }
-  
-  /* Supprime aussi la description si elle apparaît en double */
-  .page-header .project-tagline {
-    display: none !important;
-  }
-
-  /* Ton code actuel pour le footer */
-  .site-footer-credits, .site-footer-owner {
+  footer, .site-footer, .footer-col-wrapper, .site-footer-owner, .site-footer-credits {
     display: none !important;
     visibility: hidden !important;
-  }
-  .site-footer {
-    border-top: none !important;
+    height: 0 !important;
+    padding: 0 !important;
   }
 </style>
-
