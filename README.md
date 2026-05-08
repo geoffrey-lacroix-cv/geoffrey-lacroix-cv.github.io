@@ -142,7 +142,7 @@ Dans le cadre des projets Mercure, SAP CoreModel V2, Mobilité bancaire
 **Développement & Data**
 * **Langages :** Python, REXX, C/C++, C#, .NET, JAVA, ADA95.
 * **Bases de données :** SQLServer, SQLite, Oracle.
-* 
+
 ---
 
 # Contact
