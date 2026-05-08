@@ -1,6 +1,4 @@
 
-# CV de Geoffrey Lacroix, Expert Senior Mainframe 
-
 ---
 
 # Synthèse 
