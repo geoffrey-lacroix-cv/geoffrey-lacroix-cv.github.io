@@ -3,7 +3,7 @@
 
 ---
 
-# 🕵️‍♂️ Synthèse 
+# Synthèse 
 
 **Expert Architecte Mainframe** |  **Modernisation z/OS** (*IA + RAG + GRAPH*) & **saving MSUs** | Paris / Lyon / Valenciana / Malaga | 23+ ans d'expérience 
 
@@ -25,7 +25,7 @@ Expertise clés:
 
 ---
 
-# 🏗️ Détails
+# Détails
 
 **Expert Senior z/OS** | Optimisations MSUs & (*IA & RAG for mainframe*) | Lyon | 2022 - 2026 
 
@@ -122,7 +122,7 @@ Dans le cadre des projets Mercure, SAP CoreModel V2, Mobilité bancaire
 
 ---
 
-# 🎓 Formations 
+# Formations 
 
 **DUT Informatique** | **Génie Logiciel** | IUT de BOURGOGNE / **Dijon** | 2000 - 2003
 
@@ -130,18 +130,18 @@ Dans le cadre des projets Mercure, SAP CoreModel V2, Mobilité bancaire
 
 ---
 
-# 🥋 Compétences 
+# Compétences 
 
 **Mainframe** | **COBOL** | **DB2** | **JCL** | **CICS**
 **Legacy Modernization** | **MSUs savings** | MQSeries | **ARCH(13)** | **ARCH(14)**
-**RAG** | Enterprise IA | **R&D perso** | Prompt Engineering | LLM 
+**RAG** | Enterprise IA | **Expertise Innovation & Hybridation** | Prompt Engineering | LLM 
 **NEO4J** | **Knowledge Graphs** | **Graphes de connaissances** | dbGraph
 **Python** | REXX | SQLServer | **SQLite** | Oracle
 ADA95 | C/C++ | **C#** | .NET | **JAVA**
 
 ---
 
-# 📩 Contact
+# Contact
 
 **Ligne sécurisée :** [Contact](mailto:g3offr3y_lacr0ix@proton.me)
 
