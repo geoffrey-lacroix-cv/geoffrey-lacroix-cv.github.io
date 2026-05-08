@@ -134,7 +134,7 @@ Dans le cadre des projets Mercure, SAP CoreModel V2, Mobilité bancaire
 
 **Mainframe** | **COBOL** | **DB2** | **JCL** | **CICS**
 **Legacy Modernization** | **MSUs savings** | MQSeries | **ARCH(13)** | **ARCH(14)**
-**RAG** | Enterprise IA | **Expertise Innovation & Hybridation** | Prompt Engineering | LLM 
+**RAG** | Enterprise IA | **Expertise Innovation & Hybridation** | LLM |  
 **NEO4J** | **Knowledge Graphs** | **Graphes de connaissances** | dbGraph
 **Python** | REXX | SQLServer | **SQLite** | Oracle
 ADA95 | C/C++ | **C#** | .NET | **JAVA**
