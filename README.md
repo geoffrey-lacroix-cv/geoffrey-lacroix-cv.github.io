@@ -129,7 +129,7 @@ Dans le cadre des projets Mercure, SAP CoreModel V2, Mobilité bancaire
 
 **Expertise Mainframe & Systèmes Critiques**
 * **Core :** COBOL, DB2, JCL, CICS, MQSeries, Pacbase.
-* **Optimisation :** MSUs savings, COBOL6 ARCH(13)/ARCH(14).
+* **Optimisation :** MSUs savings, COBOL (V2.x, V4.x, V6.x), ARCH(13)/ARCH(14).
 * **Modernisation :** Legacy Hybridation, Mainframe, décommissionements.
 
 **Innovation & IA Générative**
@@ -137,8 +137,8 @@ Dans le cadre des projets Mercure, SAP CoreModel V2, Mobilité bancaire
 * **Knowledge Graphs :** NEO4J, Graphes de connaissances, dbGraph.
 
 **Développement & Data**
-* **Langages :** COBOL, JCL, Python, REXX, C/C++, C#, .NET, JAVA, ADA95, VBa.
-* **Bases de données :** DB2, SQLServer, SQLite, Oracle.
+* **Langages :** Python, REXX, C/C++, C#, .NET, JAVA, ADA95, VBa.
+* **Bases de données :** SQLServer, SQLite, Oracle.
 
 ---
 
