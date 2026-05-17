@@ -1,3 +1,4 @@
+geof.lac@gmail.com
 
 ---
 
@@ -5,15 +6,15 @@
 
 **Analyste Développeur & Architecte Mainframe** |  **Modernisation z/OS** (*IA + RAG + GRAPH*) & **saving MSUs** | Paris / Lyon / Valenciana  / Malaga | 23+ ans d'expérience 
 
-**Analyste développeur** et architecte **Mainframe** (**z/OS, COBOL, DB2, CICS**) avec une expertise unique dans l'intégration de la dette technique du Cobol z/OS & des **KNOWLEDGE GRAPHS**. 
+**Analyste développeur** et architecte **Mainframe** (**z/OS, COBOL, DB2, CICS**) avec une expertise unique dans l'intégration du Cobol z/OS & des **KNOWLEDGE GRAPHS**. 
 
 Expertise clés: 
 
 * **Mainframe z/OS** : Analyste technico-fonctionnel multi-casquettes depuis 23+ ans : du simple développement COBOL a l'analyse métier la plus fine, TMA, maintenance, sécurité logique, participation aux fusions nationales bancaires, expert optimisations MSUs.
   
-* **Modernisation IA & Innovation** : R&D personnelle dans l'hybridation Mainframe et Intelligence Artificielle (*RAG, Knowledge Graphs, Traçabilité*), vision de la dette technique COBOL-z/OS unique et propositions d'optimisations prêtes pour être exploitables par des développeurs, devenus 'améliorés' automatiquement.
+* **Modernisation IA & Innovation** : R&D personnelle dans l'hybridation Mainframe et Intelligence Artificielle (*RAG, Knowledge Graphs, Traçabilité*), vision de la dette technique COBOL z/OS unique et actionnable par graphe de connaissances.
 
-* **International** : Prêt pour participer à des projets de modernisation. L'amour, la passion, la veille technologique, mes expériences et ma perpétuelle envie d'apprendre et de découvrir seront mises à votre disposition, dans le respect total de vos règles et de vos processus.
+* **International** : Prêt pour participer à des projets de modernisation. La passion, la veille technologique, les expériences et la perpétuelle envie d'apprendre et de découvrir seront mises à votre disposition, dans le respect total de vos règles et de vos processus.
 
 **Disponible pour des opportunités à l'international** : 
 - Luxembourg,
@@ -145,11 +146,6 @@ Dans le cadre des projets Mercure, SAP CoreModel V2, Mobilité bancaire
 * Banques, Assurances, Supply Chain, Industries
 * Comptabilité, notations IFRS, McDonough, Crédits GREEN, PEL/CAT, GED
   
----
-
-# Contact
-
-**Ligne sécurisée :** [Contact](mailto:g3offr3y_lacr0ix@proton.me)
 
 <style>
   footer, .site-footer, .footer-col-wrapper, .site-footer-owner, .site-footer-credits {
