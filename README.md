@@ -3,7 +3,7 @@
 
 # Synthèse 
 
-**Analyse Développeur & Architecte Mainframe** |  **Modernisation z/OS** (*IA + RAG + GRAPH*) & **saving MSUs** | Paris / Lyon / Valenciana  / Malaga | 23+ ans d'expérience 
+**Analyste Développeur & Architecte Mainframe** |  **Modernisation z/OS** (*IA + RAG + GRAPH*) & **saving MSUs** | Paris / Lyon / Valenciana  / Malaga | 23+ ans d'expérience 
 
 **Analyste développeur et architecte** spécialiste des systèmes critiques (**z/OS, COBOL, DB2, CICS**) avec une expertise unique dans l'intégration du z/OS & des **KNOWLEDGE GRAPHS**. 
 
