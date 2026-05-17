@@ -1,6 +1,6 @@
 
----
 geof.lac@gmail.com
+
 ---
 
 # Synthèse 
