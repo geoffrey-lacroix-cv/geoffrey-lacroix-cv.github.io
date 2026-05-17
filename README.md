@@ -3,13 +3,13 @@
 
 # Synthèse 
 
-**Expert Architecte Mainframe** |  **Modernisation z/OS** (*IA + RAG + GRAPH*) & **saving MSUs** | Paris / Lyon / Malaga | 23+ ans d'expérience 
+**Expert Architecte Mainframe** |  **Modernisation z/OS** (*IA + RAG + GRAPH*) & **saving MSUs** | Paris / Lyon / Valenciana  / Malaga | 23+ ans d'expérience 
 
-**Architecte senior** spécialiste des systèmes critiques (**z/OS, COBOL, DB2, CICS**) avec une expertise unique dans l'intégration du z/OS & des **KNOWLEDGE GRAPHS**. 
+**Analyste développeur et architecte senior** spécialiste des systèmes critiques (**z/OS, COBOL, DB2, CICS**) avec une expertise unique dans l'intégration du z/OS & des **KNOWLEDGE GRAPHS**. 
 
 Expertise clés: 
 
-* **Mainframe z/OS** : 23 ans de conception, de maintenance et de fusions nationales bancaires, sécurité logique, optimisations MSUs, analyste technico-fonctionnel multi-casquettes : du simple développement COBOL a l'analyse métier la plus fine.
+* **Mainframe z/OS** : Analyste technico-fonctionnel multi-casquettes depuis 23+ ans : du simple développement COBOL a l'analyse métier la plus fine, TMA, maintenance, sécurité logique, participation aux fusions nationales bancaires, expert optimisations MSUs.
   
 * **Modernisation IA & Innovation** : R&D personnelle dans l'hybridation Mainframe et Intelligence Artificielle (*RAG, Knowledge Graphs, Traçabilité*), vision de la dette technique COBOL-z/OS unique.
 
