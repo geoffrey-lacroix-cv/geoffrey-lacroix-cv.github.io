@@ -1,4 +1,3 @@
-g3offr3y_lacr0ix@proton.me
 
 ---
 
