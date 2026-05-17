@@ -35,7 +35,7 @@ Expertise clés:
 * **Rétro conception** pour decommissionement vers monde open
 * Développements et correction de composants **Pacbase** et **Cobol**
 * **Support et Assistance Pacbase, JCL, MQueue, RPP**
-* Développement d'outils REXX de contrôles automatisés de post MEP, de surveillance de MQ et environnement d'exécution d'une fonctionnalité client
+* Développement d'outils REXX de contrôles automatisés de post MEP, de surveillance de MQ et environnement d'exécution d'un composant JCL/COBOL multi instance/multi patition
 
 **Consultant indépendant z/OS** | ITCE - BPCE - CATS - CAGIP - GROUPAMA | Lyon / Annecy / Chalon-sur-Saône | 2013 - 2022 
 
