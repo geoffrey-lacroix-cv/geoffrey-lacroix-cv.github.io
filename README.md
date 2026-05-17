@@ -32,7 +32,7 @@ Expertise clés:
 * Support technique
 * Reprise et mise à jour de la **métrologie système Z** (exploitation des fichiers SMF-compteurs de performances système Z)
 * Projet **AWR** (NON-AL Supply), pilotage et résolution d’incidents, recette et mise en prod
-* **Rétro conception** pour decommissionement vers monde open
+* **Rétro conception** pour décommissionements vers monde open
 * Développements et correction de composants **Pacbase** et **Cobol**
 * **Support et Assistance Pacbase, JCL, MQueue, RPP**
 * Développement d'outils REXX de contrôles automatisés de post MEP, de surveillance de MQ et environnement d'exécution d'un composant JCL/COBOL multi instance/multi patition
