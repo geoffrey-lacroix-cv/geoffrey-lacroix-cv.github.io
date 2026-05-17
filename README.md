@@ -1,3 +1,4 @@
+geof.lac@gmail.com
 
 ---
 
@@ -36,7 +37,8 @@ Expertise clés:
 * Développements et correction de composants **Pacbase** et **Cobol**
 * **Support et Assistance Pacbase, JCL, MQueue, RPP**
 * Développement d'outils REXX de contrôles automatisés de post MEP, de surveillance de composant JCL/COBOL/MQ en environnement production multi instance/multi patition
-
+* **point d'entree unique** pour la **migration Pacbase vers RPP** pilotée par IBM
+  
 **Consultant indépendant - Analyste Développeur z/OS** | ITCE - BPCE - CATS - CAGIP - GROUPAMA | Lyon / Annecy / Chalon-sur-Saône | 2013 - 2022 
 
 **IT-CE** : Projet Bancware, VARIO, TRADIX, Comptabase : participation aux évolutions 
@@ -144,11 +146,7 @@ Dans le cadre des projets Mercure, SAP CoreModel V2, Mobilité bancaire
 * Banques, Assurances, Supply Chain, Industries
 * Comptabilité, notations IFRS, McDonough, Crédits GREEN, PEL/CAT, GED
   
----
 
-# Contact
-
-**Ligne sécurisée :** [Contact](mailto:g3offr3y_lacr0ix@proton.me)
 
 <style>
   footer, .site-footer, .footer-col-wrapper, .site-footer-owner, .site-footer-credits {
