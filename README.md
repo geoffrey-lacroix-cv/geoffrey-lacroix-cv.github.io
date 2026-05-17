@@ -1,6 +1,4 @@
 
-geof.lac@gmail.com
-
 ---
 
 # Synthèse 
@@ -140,13 +138,18 @@ Dans le cadre des projets Mercure, SAP CoreModel V2, Mobilité bancaire
 * **Knowledge Graphs :** NEO4J, Graphes de connaissances, dbGraph.
 
 **Développement & Data**
-* **Langages :** Python, REXX, C/C++, C#, .NET, JAVA, ADA95, VBa.
+* **Langages :** Python, REXX, C/C++, C#, .NET, JAVA, ADA95, VBa, GAP, Assembleur.
 * **Bases de données :** SQLServer, SQLite, Oracle.
 
 **Fonctionnelles**
 * Banques, Assurances, Supply Chain, Industries
-* Comptabilité, notations IFRS, McDonough, Crédits GREEN, PEL/CAT, GED
+* Comptabilité, notations IFRS, McDonough, Crédits GREEN, PEL/CAT, GED, sécurité logique 
   
+---
+
+# Contact
+
+**Ligne sécurisée :** [Cliquez ici](mailto:g3offr3y_lacr0ix@proton.me)
 
 <style>
   footer, .site-footer, .footer-col-wrapper, .site-footer-owner, .site-footer-credits {
