@@ -3,23 +3,23 @@
 
 # Synthèse 
 
-**Expert Architecte Mainframe** |  **Modernisation z/OS** (*IA + RAG + GRAPH*) & **saving MSUs** | Paris / Lyon / Valenciana / Malaga | 23+ ans d'expérience 
+**Expert Architecte Mainframe** |  **Modernisation z/OS** (*IA + RAG + GRAPH*) & **saving MSUs** | Paris / Lyon / Malaga | 23+ ans d'expérience 
 
 **Architecte senior** spécialiste des systèmes critiques (**z/OS, COBOL, DB2, CICS**) avec une expertise unique dans l'intégration du z/OS & des **KNOWLEDGE GRAPHS**. 
 
 Expertise clés: 
 
-* **Mainframe z/OS** : 23 ans de conception, de maintenance et de fusions nationales bancaires, expert sécurité logique, expert optimisations MSUs.
+* **Mainframe z/OS** : 23 ans de conception, de maintenance et de fusions nationales bancaires, sécurité logique, optimisations MSUs, analyste technico-fonctionnel multi-casquettes : du simple développement COBOL a l'analyse métier la plus fine.
   
-* **Modernisation IA & Innovation** : R&D personnelle dans l'hybridation Mainframe et Intelligence Artificielle (*RAG, Knowledge Graphs, Traçabilité*). 
+* **Modernisation IA & Innovation** : R&D personnelle dans l'hybridation Mainframe et Intelligence Artificielle (*RAG, Knowledge Graphs, Traçabilité*), vision de la dette technique COBOL | z/OS unique.
 
-* **International** : Prêt pour participer à des projets de modernisation qu'ils soient simples ou complexes, nous connaissons la haute valeur stratégique de ces missions. 
+* **International** : Prêt pour participer à des projets de modernisation. L'amour, la passion, la veille technologique, mes expériences et ma perpétuelle envie d'apprendre et de découvrir seront mises à votre disposition, dans le respect total de vos règles et de vos processus.
 
 **Disponible pour des opportunités à l'international** : 
 - Luxembourg,
 - Espagne,
-- USA,
-- Suisse.
+- Belgique,
+- Portugal.
 
 ---
 
@@ -28,17 +28,17 @@ Expertise clés:
 **Expert Senior z/OS** | Optimisations MSUs & (*IA & RAG for mainframe*) | Lyon | 2022 - 2026 
 
 **Run Prolog** :
-* Projet **AWR**, pilotage et résolution d’incidents, mise en prod
+* Participation au RUN, analyse et résolution des incidents
+* Support technique
 * Reprise et mise à jour de la **métrologie système Z** (exploitation des fichiers SMF-compteurs de performances système Z)
-* Traitement des incidents applicatifs
-* Développements et correction de composants **Pacbase** et **Cobol**
-* Elaboration et exécution des tests unitaires, d’intégration et accompagnement
-* **Recette AWR**
+* Projet **AWR**, pilotage et résolution d’incidents, recette et mise en prod
 * Rédaction et participation aux tests fonctionnels
 * Rédaction de spécifications
 * **Rétro conception** pour decommissionement vers monde open
-* Gestion des problèmes
+* Développements et correction de composants **Pacbase** et **Cobol**
+* Elaboration et exécution des tests unitaires, d’intégration et accompagnement
 * **Support et Assistance Pacbase, JCL, MQueue, RPP**
+* Développement d'outils REXX de contrôles automatisés de post MEP, de surveillance de MQ et environnement d'exécution d'une fonctionnalité client
 
 **Consultant indépendant z/OS** | ITCE - BPCE - CATS - CAGIP - GROUPAMA | Lyon / Annecy / Chalon-sur-Saône | 2013 - 2022 
 
