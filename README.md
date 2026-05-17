@@ -31,7 +31,7 @@ Expertise clés:
 * Participation au RUN, analyse et résolution des incidents
 * Support technique
 * Reprise et mise à jour de la **métrologie système Z** (exploitation des fichiers SMF-compteurs de performances système Z)
-* Projet **AWR**, pilotage et résolution d’incidents, recette et mise en prod
+* Projet **AWR** (NON-AL Supply), pilotage et résolution d’incidents, recette et mise en prod
 * **Rétro conception** pour decommissionement vers monde open
 * Développements et correction de composants **Pacbase** et **Cobol**
 * **Support et Assistance Pacbase, JCL, MQueue, RPP**
