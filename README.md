@@ -34,7 +34,6 @@ Expertise clés:
 * Projet **AWR**, pilotage et résolution d’incidents, recette et mise en prod
 * **Rétro conception** pour decommissionement vers monde open
 * Développements et correction de composants **Pacbase** et **Cobol**
-* Elaboration et exécution des tests unitaires, d’intégration et accompagnement
 * **Support et Assistance Pacbase, JCL, MQueue, RPP**
 * Développement d'outils REXX de contrôles automatisés de post MEP, de surveillance de MQ et environnement d'exécution d'une fonctionnalité client
 
