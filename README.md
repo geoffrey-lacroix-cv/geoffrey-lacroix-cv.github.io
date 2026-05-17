@@ -37,7 +37,7 @@ Expertise clés:
 * **Support et Assistance Pacbase, JCL, MQueue, RPP**
 * Développement d'outils REXX de contrôles automatisés de post MEP, de surveillance de MQ et environnement d'exécution d'un composant JCL/COBOL multi instance/multi patition
 
-**Consultant indépendant z/OS** | ITCE - BPCE - CATS - CAGIP - GROUPAMA | Lyon / Annecy / Chalon-sur-Saône | 2013 - 2022 
+**Consultant indépendant - Analyste Développeur z/OS** | ITCE - BPCE - CATS - CAGIP - GROUPAMA | Lyon / Annecy / Chalon-sur-Saône | 2013 - 2022 
 
 **IT-CE** : Projet Bancware, VARIO, TRADIX, Comptabase : participation aux évolutions 
 * Analyse fonctionnelle 
