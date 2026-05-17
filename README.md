@@ -11,7 +11,7 @@ Expertise clés:
 
 * **Mainframe z/OS** : 23 ans de conception, de maintenance et de fusions nationales bancaires, sécurité logique, optimisations MSUs, analyste technico-fonctionnel multi-casquettes : du simple développement COBOL a l'analyse métier la plus fine.
   
-* **Modernisation IA & Innovation** : R&D personnelle dans l'hybridation Mainframe et Intelligence Artificielle (*RAG, Knowledge Graphs, Traçabilité*), vision de la dette technique COBOL | z/OS unique.
+* **Modernisation IA & Innovation** : R&D personnelle dans l'hybridation Mainframe et Intelligence Artificielle (*RAG, Knowledge Graphs, Traçabilité*), vision de la dette technique COBOL-z/OS unique.
 
 * **International** : Prêt pour participer à des projets de modernisation. L'amour, la passion, la veille technologique, mes expériences et ma perpétuelle envie d'apprendre et de découvrir seront mises à votre disposition, dans le respect total de vos règles et de vos processus.
 
