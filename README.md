@@ -1,4 +1,3 @@
-geof.lac@gmail.com
 
 ---
 
