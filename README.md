@@ -32,8 +32,6 @@ Expertise clés:
 * Support technique
 * Reprise et mise à jour de la **métrologie système Z** (exploitation des fichiers SMF-compteurs de performances système Z)
 * Projet **AWR**, pilotage et résolution d’incidents, recette et mise en prod
-* Rédaction et participation aux tests fonctionnels
-* Rédaction de spécifications
 * **Rétro conception** pour decommissionement vers monde open
 * Développements et correction de composants **Pacbase** et **Cobol**
 * Elaboration et exécution des tests unitaires, d’intégration et accompagnement
