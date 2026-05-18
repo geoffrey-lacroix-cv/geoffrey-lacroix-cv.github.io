@@ -5,7 +5,7 @@
 
 **Analyste Technico-fonctionnel Mainframe** |  **Modernisation z/OS** (*IA + RAG + GRAPH*) & **saving MSUs** | Paris / Lyon / Valenciana  / Malaga | 23+ ans d'expérience 
 
-**Analyste développeur** et architecte **Mainframe** (**z/OS, COBOL, DB2, CICS**) avec une expertise unique dans l'intégration du Cobol z/OS & des **KNOWLEDGE GRAPHS**. 
+**Analyste Technico-fonctionnel** et architecte **Mainframe** (**z/OS, COBOL, DB2, CICS**) avec une expertise unique dans l'intégration du Cobol z/OS & des **KNOWLEDGE GRAPHS**. 
 
 Expertise clés: 
 
@@ -25,7 +25,7 @@ Expertise clés:
 
 # Détails
 
-**Analyste Développeur - Expert z/OS** | Optimisations MSUs & (*IA & RAG for mainframe*) | Lyon | 2022 - 2026 
+**Analyste Technico-fonctionnel - Expert z/OS** | Optimisations MSUs & (*IA & RAG for mainframe*) | Lyon | 2022 - 2026 
 
 **Run Prolog** :
 * Participation au RUN, analyse et résolution des incidents
