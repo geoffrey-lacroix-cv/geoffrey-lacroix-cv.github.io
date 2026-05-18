@@ -1,6 +1,4 @@
 
-geof.lac@gmail.com
-
 ---
 
 # Resumen
@@ -143,7 +141,11 @@ En el marco de los proyectos Mercure, SAP CoreModel V2, Movilidad bancaria
 * Banca, Seguros, Cadena de Suministro (Supply Chain), Industrias
 * Contabilidad, normativas IFRS, McDonough, Créditos GREEN, PEL/CAT, GED, seguridad lógica 
   
+---
 
+# Contacto
+
+**Línea segura:** [Haga clic aquí](mailto:g3offr3y_lacr0ix@proton.me)
 
 <style>
   footer, .site-footer, .footer-col-wrapper, .site-footer-owner, .site-footer-credits {
