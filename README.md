@@ -9,7 +9,7 @@
 
 Expertise clés: 
 
-* **Mainframe z/OS** : Analyste technico-fonctionnel multi-casquettes depuis 23+ ans : du simple développement COBOL a l'analyse métier la plus fine, TMA, maintenance, sécurité logique, participation aux fusions nationales bancaires, expert optimisations MSUs.
+* **Mainframe z/OS** : Analyste technico-fonctionnel multi-casquettes depuis 23+ ans : du simple développement COBOL à l'analyse métier la plus fine, TMA, maintenance, sécurité logique, participation aux fusions nationales bancaires, expert optimisations MSUs.
   
 * **Modernisation IA & Innovation** : R&D personnelle dans l'hybridation Mainframe et Intelligence Artificielle (*RAG, Knowledge Graphs, Traçabilité*), vision de la dette technique COBOL z/OS unique et actionnable par graphe de connaissances.
 
@@ -43,10 +43,10 @@ Expertise clés:
 **IT-CE** : Projet Bancware, VARIO, TRADIX, Comptabase : participation aux évolutions 
 * Analyse fonctionnelle 
 * Rédaction des spécifications fonctionnelles
-* Chffrage
+* Chiffrage 
 * Tests fonctionnels avec ALMQC 
-* Recette MOE
-* Assistance MOA
+* Recette M.O.E
+* Assistance M.O.A
 
 **Groupama** : 
 Dans le cadre des projets Mercure, SAP CoreModel V2, Mobilité bancaire
