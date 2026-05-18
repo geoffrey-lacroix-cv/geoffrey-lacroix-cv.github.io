@@ -1,11 +1,13 @@
 
+geof.lac@gmail.com
+
 ---
 
 # Synthèse 
 
 **Analyste technico-fonctionnel Mainframe** |  **Modernisation z/OS** (*IA + RAG + GRAPH*) & **saving MSUs** | Paris / Lyon / Valenciana  / Malaga | 23+ ans d'expérience 
 
-**Analyste développeur**, **Analyste technico-fonctionnel**, **Architecte Mainframe** (**z/OS, COBOL, DB2, CICS**) avec une expertise unique dans l'intégration du Cobol z/OS & des **KNOWLEDGE GRAPHS**, je m'adapte au contexte client réel.
+**Analyste technico-fonctionnel Mainframe** (**z/OS, COBOL, DB2, CICS**) avec une expertise unique dans l'intégration du Cobol z/OS & des **KNOWLEDGE GRAPHS**, je m'adapte au contexte client réel.
 
 Expertise clés: 
 
@@ -145,11 +147,6 @@ Dans le cadre des projets Mercure, SAP CoreModel V2, Mobilité bancaire
 * Banques, Assurances, Supply Chain, Industries
 * Comptabilité, notations IFRS, McDonough, Crédits GREEN, PEL/CAT, GED, sécurité logique 
   
----
-
-# Contact
-
-**Ligne sécurisée :** [Cliquez ici](mailto:g3offr3y_lacr0ix@proton.me)
 
 <style>
   footer, .site-footer, .footer-col-wrapper, .site-footer-owner, .site-footer-credits {
