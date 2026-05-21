@@ -130,7 +130,7 @@ En el marco de los proyectos Mercure, SAP CoreModel V2, Movilidad bancaria
 * **Modernización:** Hibridación de sistemas heredados (Legacy Hybridation), Mainframe, desmantelamientos.
 
 **Innovación e IA Generativa**
-* **Inteligencia Artificial:** LLM, RAG (Retrieval-Augmented Generation), Enterprise IA.
+* **Inteligencia Artificial:** LLM, RAG (Retrieval-Augmented Generation), Enterprise IA, Ollama.
 * **Knowledge Graphs:** NEO4J, Gráficos de conocimiento, dbGraph.
 
 **Desarrollo y Datos**
