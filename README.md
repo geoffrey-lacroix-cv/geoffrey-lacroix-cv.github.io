@@ -153,8 +153,8 @@ Dans le cadre des projets Mercure, SAP CoreModel V2, Mobilité bancaire
 
 # Innovation 
 
-**Projets de recherche** : [atlasbs.github.io](https://atlasbs.github.io)
-* 
+**Projets de recherche : * [atlasbs.github.io](https://atlasbs.github.io)
+
 <style>
   footer, .site-footer, .footer-col-wrapper, .site-footer-owner, .site-footer-credits {
     display: none !important;
