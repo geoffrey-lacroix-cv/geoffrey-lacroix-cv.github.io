@@ -151,6 +151,8 @@ Dans le cadre des projets Mercure, SAP CoreModel V2, Mobilité bancaire
 
 **Ligne sécurisée :** [Cliquez ici](mailto:g3offr3y_lacr0ix@proton.me)
 
+* **Projets de recherche & Innovation** : [atlasbs.github.io](https://atlasbs.github.io)
+* 
 <style>
   footer, .site-footer, .footer-col-wrapper, .site-footer-owner, .site-footer-credits {
     display: none !important;
