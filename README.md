@@ -36,7 +36,7 @@ Expertise clés:
 * Développements et correction de composants **Pacbase** et **Cobol**
 * **Support et Assistance Pacbase, JCL, MQueue, RPP**
 * Développement d'outils REXX de contrôles automatisés de post MEP, de surveillance de composant JCL/COBOL/MQ en environnement production multi instance/multi patition
-* **point d'entree unique** pour la **migration Pacbase vers RPP** pilotée par IBM
+* **point d'entree unique** pour la **migration Pacbase vers RPP** pilotée par IBM, point d'entrée unique sur un patrimone legacy de 15 000 programme Pacbase (10 000 batch et 5 000 cics dont web service) : analyse globale, versionning : excel, vba, REXX, JIRA Confluence.
   
 **Consultant indépendant - Analyste Développeur z/OS** | ITCE - BPCE - CATS - CAGIP - GROUPAMA | Lyon / Annecy / Chalon-sur-Saône | 2013 - 2022 
 
