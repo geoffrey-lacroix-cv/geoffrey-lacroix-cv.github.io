@@ -90,45 +90,133 @@
                 </div>
 
                 <!-- 2008-2013 & 2003-2008 -->
-                <div class="grid md:grid-cols-2 gap-8">
-                    <div class="card-hover bg-slate-900 p-8 rounded-3xl border border-slate-700">
-                        <h3 class="font-semibold mb-3">Architecte Sécurité & Flux Mainframe</h3>
-                        <p class="text-blue-400">CATS • Lyon • 2008 - 2013</p>
-                        <p class="mt-4 text-sm">Outils .NET, traçabilité, évolution SGS Crédit Agricole.</p>
-                    </div>
-                    <div class="card-hover bg-slate-900 p-8 rounded-3xl border border-slate-700">
-                        <h3 class="font-semibold mb-3">Développeur Mainframe z/OS</h3>
-                        <p class="text-blue-400">CT4R - ITCE • Lyon • 2003 - 2008</p>
-                        <p class="mt-4 text-sm">Projets McDonough, PEL/CAT, IFRS, OSCAR, bascules caisses.</p>
-                    </div>
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Geoffrey Lacroix - CV</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+    <style>
+        body { font-family: 'Inter', system-ui, sans-serif; }
+        .hero-bg { background: linear-gradient(135deg, #0f172a 0%, #1e3a8a 100%); }
+        .card-hover { transition: all 0.3s ease; }
+        .card-hover:hover { transform: translateY(-8px); box-shadow: 0 25px 50px -12px rgb(0 0 0 / 0.4); }
+        ul { list-style-type: disc; }
+    </style>
+</head>
+<body class="bg-slate-950 text-slate-200">
+
+    <!-- HERO -->
+    <section class="hero-bg py-20">
+        <div class="max-w-6xl mx-auto px-6 text-center">
+            <h1 class="text-5xl md:text-6xl font-bold mb-4">Geoffrey Lacroix</h1>
+            <p class="text-2xl text-blue-400 mb-6">Analyste Technico-Fonctionnel Mainframe z/OS</p>
+            <p class="text-xl text-slate-300 max-w-3xl mx-auto">23+ ans d’expérience • Modernisation • Optimisation MSUs • IA + RAG + Knowledge Graphs</p>
+            
+            <div class="mt-10 flex flex-wrap justify-center gap-6">
+                <a href="mailto:g3offr3y_lacr0ix@proton.me" class="bg-blue-600 hover:bg-blue-700 px-8 py-4 rounded-2xl font-semibold flex items-center gap-3">
+                    <i class="fa-solid fa-envelope"></i> Contact sécurisé
+                </a>
+                <a href="https://atlasbs.github.io" target="_blank" class="border border-slate-400 hover:bg-slate-900 px-8 py-4 rounded-2xl font-semibold flex items-center gap-3">
+                    <i class="fa-solid fa-link"></i> Projet Atlas
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <div class="max-w-6xl mx-auto px-6 py-12">
+
+        <!-- SYNTHÈSE -->
+        <section class="mb-20">
+            <h2 class="text-3xl font-bold mb-8 text-blue-400">📋 Synthèse</h2>
+            <div class="prose prose-invert max-w-none text-lg leading-relaxed">
+                <p><strong>Analyste technico-fonctionnel Mainframe</strong> | <strong>Modernisation z/OS</strong> (IA + RAG + GRAPH) &amp; <strong>saving MSUs</strong> | Paris / Lyon / Valenciana / Malaga | 23+ ans d'expérience</p>
+                <p class="mt-4">Expert z/OS, COBOL, DB2, CICS avec une expertise unique dans l'intégration du Cobol z/OS et des <strong>Knowledge Graphs</strong>.</p>
+                <p class="mt-4">Disponible pour des opportunités à l'international : Luxembourg, Espagne, Belgique, Portugal.</p>
+            </div>
+        </section>
+
+        <!-- EXPÉRIENCES -->
+        <section class="mb-20">
+            <h2 class="text-3xl font-bold mb-10 text-blue-400">💼 Expériences Professionnelles</h2>
+
+            <div class="space-y-12">
+                <div class="card-hover bg-slate-900 p-8 rounded-3xl border border-slate-700">
+                    <h3 class="text-xl font-semibold">Analyste Technico-fonctionnel - Expert z/OS</h3>
+                    <p class="text-blue-400 mb-6">Run Prolog • Lyon • 2022 - 2026</p>
+                    <ul class="list-disc pl-6 space-y-3 text-slate-300">
+                        <li>Participation au RUN, analyse et résolution des incidents</li>
+                        <li>Support technique</li>
+                        <li>Reprise et mise à jour de la métrologie système Z (SMF)</li>
+                        <li>Projet AWR (NON-AL Supply) : pilotage, résolution d’incidents, recette et mise en prod</li>
+                        <li>Rétro conception pour décommissionnements vers monde open</li>
+                        <li>Développements et correction de composants Pacbase et Cobol</li>
+                        <li>Support et Assistance Pacbase, JCL, MQueue, RPP</li>
+                        <li>Développement d'outils REXX de contrôles automatisés</li>
+                        <li><strong>Point d'entrée unique</strong> pour la migration Pacbase vers RPP (15 000 programmes)</li>
+                    </ul>
+                </div>
+
+                <div class="card-hover bg-slate-900 p-8 rounded-3xl border border-slate-700">
+                    <h3 class="text-xl font-semibold">Consultant indépendant - Analyste Développeur z/OS</h3>
+                    <p class="text-blue-400 mb-6">ITCE - BPCE - CATS - CAGIP - GROUPAMA • 2013 - 2022</p>
+                    <ul class="list-disc pl-6 space-y-3 text-slate-300">
+                        <li>Projets Bancware, VARIO, TRADIX, Comptabase (IT-CE)</li>
+                        <li>Projets Mercure, SAP CoreModel V2, Mobilité bancaire (Groupama)</li>
+                        <li>Projets de maintenances et migrations bancaires (BPCE)</li>
+                        <li><strong>Expert REXX</strong> : conversion Easytrieve en REXX (CAGIP)</li>
+                        <li>Participation au RUN et projets GREEN (CATS)</li>
+                    </ul>
+                </div>
+
+                <div class="card-hover bg-slate-900 p-8 rounded-3xl border border-slate-700">
+                    <h3 class="text-xl font-semibold">Architecte Sécurité & Flux Mainframe</h3>
+                    <p class="text-blue-400 mb-6">CATS • Lyon • 2008 - 2013</p>
+                    <ul class="list-disc pl-6 space-y-2 text-slate-300">
+                        <li>Développement d’outils plateforme .NET</li>
+                        <li>Outil de transfert de fichier et conversion de code page</li>
+                        <li>Outil d’exécution de lots SSIS (sécurisation et traçabilité)</li>
+                        <li>Outil de références croisées</li>
+                        <li>Projet évolution SGS (SI unique Crédit Agricole)</li>
+                    </ul>
+                </div>
+
+                <div class="card-hover bg-slate-900 p-8 rounded-3xl border border-slate-700">
+                    <h3 class="text-xl font-semibold">Développeur Mainframe z/OS - Flux Financiers Critiques</h3>
+                    <p class="text-blue-400 mb-6">CT4R - ITCE • Lyon • 2003 - 2008</p>
+                    <ul class="list-disc pl-6 space-y-2 text-slate-300">
+                        <li>Projets McDonough, Migration PEL/CAT, START, IFRS, OSCAR</li>
+                        <li>TMA à chaud sur l’applicatif Client</li>
+                        <li>Double comptabilité (outils C++)</li>
+                        <li>Maintenance corrective et évolutive sur Gl*Expert, RDJ, Evolan</li>
+                        <li>Développement d’un outil de suivi de bascule des caisses</li>
+                    </ul>
                 </div>
             </div>
         </section>
 
         <!-- COMPÉTENCES -->
         <section class="mb-20">
-            <h2 class="text-3xl font-bold mb-8 flex items-center gap-3">
-                <span class="text-blue-400">🛠️</span> Compétences
-            </h2>
-            <div class="grid md:grid-cols-2 gap-8">
+            <h2 class="text-3xl font-bold mb-8 text-blue-400">🛠️ Compétences</h2>
+            <div class="grid md:grid-cols-2 gap-10">
                 <div class="bg-slate-900 p-8 rounded-3xl border border-slate-700">
-                    <h3 class="font-semibold mb-4 text-lg">Mainframe & Systèmes Critiques</h3>
+                    <h3 class="font-semibold mb-4">Mainframe &amp; Systèmes Critiques</h3>
                     <p class="text-slate-300">COBOL, DB2, JCL, CICS, MQSeries, Pacbase, REXX<br>
-                    Optimisation MSUs • ARCH(13/14) • Modernisation Legacy</p>
+                    Optimisation MSUs, ARCH(13)/ARCH(14), Modernisation Legacy, Décommissionnements</p>
                 </div>
                 <div class="bg-slate-900 p-8 rounded-3xl border border-slate-700">
-                    <h3 class="font-semibold mb-4 text-lg">Innovation & IA</h3>
-                    <p class="text-slate-300">RAG • Knowledge Graphs (Neo4j) • LLM • Ollama<br>
-                    Python • Hybridation Mainframe & IA</p>
+                    <h3 class="font-semibold mb-4">Innovation &amp; IA</h3>
+                    <p class="text-slate-300">RAG (Retrieval-Augmented Generation), Knowledge Graphs (Neo4j), LLM, Ollama, Python<br>
+                    Hybridation Mainframe &amp; Intelligence Artificielle</p>
                 </div>
             </div>
         </section>
 
         <!-- FORMATIONS -->
         <section class="mb-20">
-            <h2 class="text-3xl font-bold mb-8 flex items-center gap-3">
-                <span class="text-blue-400">🎓</span> Formations
-            </h2>
+            <h2 class="text-3xl font-bold mb-8 text-blue-400">🎓 Formations</h2>
             <div class="grid md:grid-cols-2 gap-8">
                 <div class="bg-slate-900 p-8 rounded-3xl border border-slate-700">
                     <p class="font-semibold">DUT Informatique - Génie Logiciel</p>
@@ -142,14 +230,13 @@
         </section>
 
         <!-- CONTACT -->
-        <section id="contact" class="py-16 bg-slate-900 rounded-3xl text-center">
+        <section class="py-16 bg-slate-900 rounded-3xl text-center">
             <h2 class="text-3xl font-bold mb-8">Contact</h2>
-            <a href="mailto:g3offr3y_lacr0ix@proton.me" 
-               class="inline-flex items-center gap-4 bg-blue-600 hover:bg-blue-700 text-xl font-semibold px-10 py-6 rounded-3xl">
+            <a href="mailto:g3offr3y_lacr0ix@proton.me" class="inline-flex items-center gap-4 bg-blue-600 hover:bg-blue-700 text-xl font-semibold px-10 py-6 rounded-3xl">
                 <i class="fa-solid fa-envelope text-3xl"></i>
                 g3offr3y_lacr0ix@proton.me
             </a>
-            <p class="mt-8 text-slate-400">Projet de recherche : <a href="https://atlasbs.github.io" class="text-blue-400 hover:underline">AtlasBS.github.io</a></p>
+            <p class="mt-8">Projet de recherche &amp; innovation : <a href="https://atlasbs.github.io" class="text-blue-400 underline">atlasbs.github.io</a></p>
         </section>
 
     </div>
