@@ -3,19 +3,15 @@
 
 # Synthèse 
 
-**Analyste technico-fonctionnel Mainframe** |  **Modernisation z/OS** (*IA + RAG + GRAPH*) & **saving MSUs** | Paris / Lyon / Valenciana  / Malaga | 23+ ans d'expérience 
+**Analyste Technico-Fonctionnel Mainframe z/OS (23+ ans d’expérience)**
 
-**Analyste technico-fonctionnel Mainframe** (**z/OS, COBOL, DB2, CICS**) avec une expertise dans l'intégration du Cobol z/OS & des **KNOWLEDGE GRAPHS**, je m'adapte au contexte client réel.
+Spécialités : COBOL, DB2, CICS, JCL, Pacbase, REXX, MQ
 
-Expertise clés: 
+Expertise en optimisation MSUs, rétro-conception, migrations et RUN production (banque & assurance).
 
-* **Mainframe z/OS** : Analyste technico-fonctionnel multi-casquettes depuis 23+ ans : du simple développement COBOL à l'analyse métier la plus fine, TMA, maintenance, sécurité logique, participation aux fusions nationales bancaires, expert optimisations MSUs.
-  
-* **Modernisation IA & Innovation** : R&D personnelle dans l'hybridation Mainframe et Intelligence Artificielle (*RAG, Knowledge Graphs, Traçabilité*), vision de la dette technique COBOL z/OS complémentaire et actionnable par graphe de connaissances.
+Innovation : Développement d’outils RAG + Knowledge Graphs pour la compréhension et la modernisation des patrimoines legacy (Pacbase batch notamment).
 
-* **International** : Prêt pour participer à des projets de modernisation. La passion, la veille technologique, les expériences et la perpétuelle envie d'apprendre et de découvrir seront mises à votre disposition, dans le respect total de vos règles et de vos processus.
-
-**Disponible pour des opportunités à l'international**
+Disponible en France et à l’international.
 
 ---
 
