@@ -151,7 +151,11 @@ Dans le cadre des projets Mercure, SAP CoreModel V2, Mobilité bancaire
 
 **Ligne sécurisée :** [Cliquez ici](mailto:g3offr3y_lacr0ix@proton.me)
 
-**Projets de recherche & innovation :** [atlasbs.github.io](https://atlasbs.github.io)
+**Projets de recherche & innovation :** 
+** Carto intelligente des systèmes **
+[atlasbs.github.io](https://atlasbs.github.io)
+
+** Rétro ingénierie Pacbase batch assistée**
 [corig-700-x.github.io/](https://corig-700-x.github.io/)
 
 <style>
