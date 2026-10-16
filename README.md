@@ -1,155 +1,56 @@
+# Geoffrey Lacroix
+**IT Support Specialist & Helpdesk L1/L2 - French Native Speaker**
+
+[Adresse Email] | [Numéro de Téléphone]
+**Localisation souhaitée:** Espagne (Barcelone, Madrid, Malaga, Valence)
+**Disponibilité:** Immédiate | **NIE:** Obtenu
 
 ---
 
-# Synthèse 
-
-**Analyste Technico-Fonctionnel Mainframe z/OS (23+ ans d’expérience)**
-
-Spécialités : COBOL, DB2, CICS, JCL, Pacbase, REXX, MQ
-
-Expertise en optimisation MSUs, rétro-conception, migrations et RUN production (banque & assurance).
-
-Innovation : Développement d’outils RAG + Knowledge Graphs pour la compréhension et la modernisation des patrimoines legacy (Pacbase batch notamment).
-
-Disponible en France et à l’international.
+## 🎯 Résumé Professionnel
+Spécialiste en support technique et assistance applicative avec une solide expérience dans la résolution d'incidents (Niveau 1 et 2), l'accompagnement des utilisateurs et la gestion de files d'attente de tickets. De langue maternelle française, rigoureux et méthodique, je recherche une opportunité stable au sein d'un centre de services ou d'une équipe Helpdesk en Espagne.
 
 ---
 
-# Détails
-
-**Analyste Technico-fonctionnel - Expert z/OS** | Optimisations MSUs & (*IA & RAG for mainframe*) | Lyon | 2022 - 2026 
-
-**Run Prolog** :
-* Participation au RUN, analyse et résolution des incidents
-* Support technique
-* Reprise et mise à jour de la **métrologie système Z** (exploitation des fichiers SMF-compteurs de performances système Z)
-* Projet **AWR** (NON-AL Supply), pilotage et résolution d’incidents, recette et mise en prod
-* **Rétro conception** pour décommissionements vers monde open
-* Développements et correction de composants **Pacbase** et **Cobol**
-* **Support et Assistance Pacbase, JCL, MQueue, RPP**
-* Développement d'outils REXX de contrôles automatisés de post MEP, de surveillance de composant JCL/COBOL/MQ en environnement production multi instance/multi patition
-* **point d'entree unique** pour la **migration Pacbase vers RPP** pilotée par IBM, point d'entrée unique sur un patrimone legacy de 15 000 programme Pacbase (10 000 batch et 5 000 cics dont web service) : analyse globale, versionning : excel, vba, REXX, JIRA Confluence.
-  
-**Consultant indépendant - Analyste Développeur z/OS** | ITCE - BPCE - CATS - CAGIP - GROUPAMA | Lyon / Annecy / Chalon-sur-Saône | 2013 - 2022 
-
-**IT-CE** : Projet Bancware, VARIO, TRADIX, Comptabase : participation aux évolutions 
-* Analyse fonctionnelle 
-* Rédaction des spécifications fonctionnelles
-* Chiffrage 
-* Tests fonctionnels avec ALMQC 
-* Recette M.O.E
-* Assistance M.O.A
-
-**Groupama** : 
-Dans le cadre des projets Mercure, SAP CoreModel V2, Mobilité bancaire
-* Analyse fonctionnelle
-* Rédaction des spécifications techniques 
-* Développements et Tests Unitaires
-* Prise en compte des retours de recette
-
-**BPCE** : Projets de maintenances et migrations bancaires du groupe Banques Populaires
-* Analyse fonctionnelle 
-* Rédaction des spécifications techniques et détaillées 
-* Développements
-* Tests unitaires
-* Tests de performances et de volumétrie pour les programmes de bascule 
-* Participation préparation de bascules (bascules à blanc)
-
-**CAGIP** : 
-* **Expert REXX** : conversion Easytrieve en REXX 
-
-**CATS** :
-* Participation au RUN, partie **Réalisation GREEN** (*collectivités publiques, entreprises, agris pros, particuliers*) :
-* Participation aux projets gérés via *Jira*
-* Développements en **Pacbase/Cobol Outillé**
-* Traitement des incidents applicatifs 
-* Gestion des problèmes 
-* Elaboration et exécution des tests unitaires et d’intégration
-* Rédaction et participation aux tests fonctionnels 
-* Participation à la rédaction des **Users Stories**
-* Participation à la **gestion du RUN** via Métis
-
-**Architecte Sécurité & Flux Mainframe** | CATS | Lyon | 2008 - 2013 
-
-* Développement d’outils plateforme .NET 
-* Reprise et finalisation outil de transfert de fichier et de conversion de code page IBM <> Windows 
-* Outil d’exécution de lots SSIS (permettant la sécurisation et la traçabilité des interventions en production) 
-* Outil de références croisées entre Caisse, PCL, Programmes, Tables/Vues, Fichiers, Spool
-
-* **Projet évolution SGS** : 
-* Analyse de l’existant
-* Définition du périmètre des évolutions à mener pour le nouveau SI unique du Crédit Agricole
-
-**Développeur Mainframe z/OS** - Flux Financiers Critiques & Fusion Caisse d'épargne | CT4R - ITCE | Lyon | 2003 - 2008 
-
-**Participation aux projets** : 
-
-* **McDonough**
-* Migration des **PEL/CAT**
-* Projet **START**, contrôles des traitements post bascule
-  
-* TMA à chaud sur l’applicatif Client
-* Projet **IFRS**
-* Participation aux développements de la double comptabilité (outils C++ pour dupliquer le plan de compte comptable **Gl*Expert**)
-* Recette de la migration du progiciel **RDJ V8.3.2**
-* Prise en charge du projet d’évolution **OSCAR** 
-* Analyses technico-fonctionnelles pour projet **TRADE / ALM** 
-
-* Maintenance corrective du système comptable sur **Gl*Expert** 
-* **RDJ**
-* **Evolan**
-  
-* Maintenance évolutive sur **OSCAR**: 
-* Rédaction de spécifications détaillées 
-* Chiffrage des évolutions et rédaction de devis
-* Gestion des livraisons
-* Développements
-* Tests Unitaires et d'intégration 
-
-* Développement d’un outil de suivi de bascule des caisses (**ordonnanceur de pilotage de week end de bascule** 2 caisses régionales / partitions-> 1 seule, outil perso pour *caisse d'épargne*)
+## 🛠️ Compétences Techniques & Linguistiques
+*   **Langues :** Français (Natif) | Anglais (Professionnel)
+*   **Support & Ticketing :** Gestion des incidents (SLA), qualification, escalade, Jira, ServiceNow, AlmQC.
+*   **Systèmes & Réseaux :** Environnements Windows, suite Office 365, Active Directory, diagnostic réseau de premier niveau (TCP/IP).
+*   **Bases de données & Outils :** Requêtes de diagnostic, manipulation de bases de données relationnelles et outils de suivi de production.
+*   **Automatisation :** Création de scripts et d'outils d'aide au diagnostic pour l'assistance quotidienne et la réduction du temps de résolution.
 
 ---
 
-# Formations 
+## 💼 Expériences Professionnelles
 
-**DUT Informatique** | **Génie Logiciel** | IUT de BOURGOGNE / **Dijon** | 2000 - 2003
+**Technicien Support Applicatif / Analyste Technique**
+*Projet CGI / Carrefour | Lyon | 2022 - Présent*
+*   Assistance technique et support applicatif sur des environnements de gestion complexes.
+*   Analyse, diagnostic et résolution des incidents de production (investigation dans les logs et bases de données).
+*   Rédaction de documentations techniques, de manuels d'utilisation et de procédures de contournement pour les utilisateurs.
+*   Développement d'outils et de scripts d'automatisation pour fiabiliser le suivi et réduire le temps de résolution des anomalies.
 
-**Baccalauréat STI-Ge** | **Génie électronique** | Lycée Gustave Eiffel / **Dijon** | 1998 - 2000
+**Consultant Support & Test / Analyste Développeur**
+*ITCE - BPCE - CATS - CAGIP - Groupama | Lyon / Annecy / Chalon-sur-Saône | 2013 - 2022*
+*   Participation active aux phases de RUN, traitement des incidents applicatifs et gestion des problèmes.
+*   Élaboration, exécution des tests unitaires, d'intégration et assistance auprès de la maîtrise d'ouvrage (MOA).
+*   Rédaction de spécifications techniques et fonctionnelles, participation à la rédaction des User Stories via Jira.
+*   Suivi des déploiements et accompagnement des utilisateurs lors des bascules de versions.
+
+**Technicien Support / Analyste Flux & Systèmes**
+*CT4R - ITCE - CATS | Lyon | 2003 - 2013*
+*   Maintenance corrective et évolutive sur des applicatifs clients critiques.
+*   Développement d'outils de suivi, d'ordonnancement et de contrôle post-bascule pour sécuriser les interventions en production.
+*   Support technique de premier et second niveau, gestion des livraisons et des recettes utilisateurs.
 
 ---
 
-# Compétences
+## 🎓 Formation
+**DUT Informatique (Génie Logiciel)**
+*IUT de Bourgogne / Dijon | 2000 - 2003*
 
-**Expertise Mainframe & Systèmes Critiques**
-* **Core :** COBOL, DB2, JCL, CICS, MQSeries, Pacbase.
-* **Optimisation :** MSUs savings, COBOL (V2.x, V4.x, V6.x), ARCH(13)/ARCH(14).
-* **Modernisation :** Legacy Hybridation, Mainframe, décommissionements.
-
-**Innovation & IA Générative**
-* **Intelligence Artificielle :** LLM, RAG (Retrieval-Augmented Generation), Enterprise IA, Ollama.
-* **Knowledge Graphs :** NEO4J, Graphes de connaissances, dbGraph.
-
-**Développement & Data**
-* **Langages :** Python, REXX, C/C++, C#, .NET, JAVA, ADA95, VBa, GAP, Assembleur.
-* **Bases de données :** SQLServer, SQLite, Oracle.
-
-**Fonctionnelles**
-* Banques, Assurances, Supply Chain, Industries
-* Comptabilité, notations IFRS, McDonough, Crédits GREEN, PEL/CAT, GED, sécurité logique 
-  
----
-
-# Contact
-
-**Ligne sécurisée :** [Cliquez ici](mailto:g3offr3y_lacr0ix@proton.me)
-
-**Projets de recherche & innovation :**
-
-**Carto intelligente legacy/open**
-[atlasbs.github.io](https://atlasbs.github.io)
-
-**Rétro ingénierie Pacbase batch**
-[corig-700-x.github.io/](https://corig-700-x.github.io/)
+**Baccalauréat STI-Ge (Génie électronique)**
+*Lycée Gustave Eiffel / Dijon | 1998 - 2000*
 
 <style>
   footer, .site-footer, .footer-col-wrapper, .site-footer-owner, .site-footer-credits {
