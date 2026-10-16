@@ -1,6 +1,6 @@
 
 
-[geof.lac@gmail.com]
+[g3offr3y_lacr0ix@proton.me]
 **Localisation souhaitée:** Espagne (Barcelone, Madrid, Malaga, Valence)
 **Disponibilité:** Immédiate | **NIE:** Obtenu
 
