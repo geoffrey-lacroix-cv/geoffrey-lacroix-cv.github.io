@@ -1,7 +1,6 @@
-# Geoffrey Lacroix
-**IT Support Specialist & Helpdesk L1/L2 - French Native Speaker**
 
-[Adresse Email] | [Numéro de Téléphone]
+
+[geof.lac@gmail.com]
 **Localisation souhaitée:** Espagne (Barcelone, Madrid, Malaga, Valence)
 **Disponibilité:** Immédiate | **NIE:** Obtenu
 
